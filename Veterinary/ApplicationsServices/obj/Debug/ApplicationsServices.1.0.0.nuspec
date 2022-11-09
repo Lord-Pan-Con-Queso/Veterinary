@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ApplicationsServices</id>
+    <version>1.0.0</version>
+    <authors>ApplicationsServices</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="DomainClass" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Ardalis.Specification" version="6.1.0" exclude="Build,Analyzers" />
+        <dependency id="AutoMapper" version="12.0.0" exclude="Build,Analyzers" />
+        <dependency id="AutoMapper.Extensions.Microsoft.DependencyInjection" version="12.0.0" exclude="Build,Analyzers" />
+        <dependency id="FluentValidation" version="11.2.2" exclude="Build,Analyzers" />
+        <dependency id="FluentValidation.DependencyInjectionExtensions" version="11.2.2" exclude="Build,Analyzers" />
+        <dependency id="MediatR" version="11.0.0" exclude="Build,Analyzers" />
+        <dependency id="MediatR.Extensions.Microsoft.DependencyInjection" version="11.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\ApplicationsServices\bin\Debug\net6.0\ApplicationsServices.dll" target="lib\net6.0\ApplicationsServices.dll" />
+  </files>
+</package>

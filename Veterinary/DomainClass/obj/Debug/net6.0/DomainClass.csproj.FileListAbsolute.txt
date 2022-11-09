@@ -1,0 +1,12 @@
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\DomainClass\bin\Debug\net6.0\DomainClass.deps.json
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\DomainClass\bin\Debug\net6.0\DomainClass.dll
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\DomainClass\bin\Debug\net6.0\DomainClass.pdb
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\DomainClass\obj\Debug\net6.0\DomainClass.csproj.AssemblyReference.cache
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\DomainClass\obj\Debug\net6.0\DomainClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\DomainClass\obj\Debug\net6.0\DomainClass.AssemblyInfoInputs.cache
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\DomainClass\obj\Debug\net6.0\DomainClass.AssemblyInfo.cs
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\DomainClass\obj\Debug\net6.0\DomainClass.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\DomainClass\obj\Debug\net6.0\DomainClass.dll
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\DomainClass\obj\Debug\net6.0\refint\DomainClass.dll
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\DomainClass\obj\Debug\net6.0\DomainClass.pdb
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\DomainClass\obj\Debug\net6.0\ref\DomainClass.dll

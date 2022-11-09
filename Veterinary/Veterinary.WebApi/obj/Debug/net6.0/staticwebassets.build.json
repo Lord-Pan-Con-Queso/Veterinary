@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MnUNeHlyDpBCixEVmiPfWMSNigDmyG5rzmiMufSSLBo=",
+  "Source": "Veterinary.WebApi",
+  "BasePath": "_content/Veterinary.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

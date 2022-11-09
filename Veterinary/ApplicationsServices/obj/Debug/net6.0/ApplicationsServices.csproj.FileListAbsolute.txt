@@ -1,0 +1,15 @@
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\ApplicationsServices\bin\Debug\net6.0\ApplicationsServices.deps.json
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\ApplicationsServices\bin\Debug\net6.0\ApplicationsServices.dll
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\ApplicationsServices\bin\Debug\net6.0\ApplicationsServices.pdb
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\ApplicationsServices\bin\Debug\net6.0\DomainClass.dll
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\ApplicationsServices\bin\Debug\net6.0\DomainClass.pdb
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\ApplicationsServices\obj\Debug\net6.0\ApplicationsServices.csproj.AssemblyReference.cache
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\ApplicationsServices\obj\Debug\net6.0\ApplicationsServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\ApplicationsServices\obj\Debug\net6.0\ApplicationsServices.AssemblyInfoInputs.cache
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\ApplicationsServices\obj\Debug\net6.0\ApplicationsServices.AssemblyInfo.cs
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\ApplicationsServices\obj\Debug\net6.0\ApplicationsServices.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\ApplicationsServices\obj\Debug\net6.0\ApplicationsServices.csproj.CopyComplete
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\ApplicationsServices\obj\Debug\net6.0\ApplicationsServices.dll
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\ApplicationsServices\obj\Debug\net6.0\refint\ApplicationsServices.dll
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\ApplicationsServices\obj\Debug\net6.0\ApplicationsServices.pdb
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\ApplicationsServices\obj\Debug\net6.0\ref\ApplicationsServices.dll

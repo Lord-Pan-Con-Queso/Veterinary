@@ -1,0 +1,38 @@
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\bin\Debug\net6.0\appsettings.json
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\bin\Debug\net6.0\Veterinary.UI.staticwebassets.runtime.json
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\bin\Debug\net6.0\Veterinary.UI.exe
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\bin\Debug\net6.0\Veterinary.UI.deps.json
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\bin\Debug\net6.0\Veterinary.UI.runtimeconfig.json
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\bin\Debug\net6.0\Veterinary.UI.dll
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\bin\Debug\net6.0\Veterinary.UI.pdb
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\obj\Debug\net6.0\Veterinary.UI.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\obj\Debug\net6.0\Veterinary.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\obj\Debug\net6.0\Veterinary.UI.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\obj\Debug\net6.0\Veterinary.UI.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\obj\Debug\net6.0\Veterinary.UI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\obj\Debug\net6.0\Veterinary.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\obj\Debug\net6.0\Veterinary.UI.RazorAssemblyInfo.cache
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\obj\Debug\net6.0\Veterinary.UI.RazorAssemblyInfo.cs
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\obj\Debug\net6.0\scopedcss\bundle\Veterinary.UI.styles.css
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\obj\Debug\net6.0\scopedcss\projectbundle\Veterinary.UI.bundle.scp.css
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\obj\Debug\net6.0\Veterinary.UI.dll
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\obj\Debug\net6.0\refint\Veterinary.UI.dll
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\obj\Debug\net6.0\Veterinary.UI.pdb
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\obj\Debug\net6.0\Veterinary.UI.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.UI\obj\Debug\net6.0\ref\Veterinary.UI.dll
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Veterinary.UI\obj\Debug\net6.0\Veterinary.UI.csproj.AssemblyReference.cache
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Veterinary.UI\obj\Debug\net6.0\Veterinary.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Veterinary.UI\obj\Debug\net6.0\Veterinary.UI.AssemblyInfoInputs.cache
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Veterinary.UI\obj\Debug\net6.0\Veterinary.UI.AssemblyInfo.cs
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Veterinary.UI\obj\Debug\net6.0\Veterinary.UI.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Veterinary.UI\obj\Debug\net6.0\Veterinary.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Veterinary.UI\obj\Debug\net6.0\Veterinary.UI.RazorAssemblyInfo.cache
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Veterinary.UI\obj\Debug\net6.0\Veterinary.UI.RazorAssemblyInfo.cs
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Veterinary.UI\obj\Debug\net6.0\Veterinary.UI.dll
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Veterinary.UI\obj\Debug\net6.0\refint\Veterinary.UI.dll
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Veterinary.UI\obj\Debug\net6.0\Veterinary.UI.pdb

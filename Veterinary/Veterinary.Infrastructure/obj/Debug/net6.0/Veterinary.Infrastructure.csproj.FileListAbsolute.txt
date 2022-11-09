@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Infrastructure\obj\Debug\net6.0\Veterinary.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Infrastructure\obj\Debug\net6.0\Veterinary.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Infrastructure\obj\Debug\net6.0\Veterinary.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Infrastructure\obj\Debug\net6.0\Veterinary.Infrastructure.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Infrastructure\obj\Debug\net6.0\Veterinary.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Infrastructure\bin\Debug\net6.0\Veterinary.Infrastructure.deps.json
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Infrastructure\bin\Debug\net6.0\Veterinary.Infrastructure.dll
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Infrastructure\bin\Debug\net6.0\Veterinary.Infrastructure.pdb
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Infrastructure\bin\Debug\net6.0\Veterinary.Core.dll
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Infrastructure\bin\Debug\net6.0\Veterinary.Core.pdb
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Infrastructure\obj\Debug\net6.0\Veterinary.Infrastructure.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Infrastructure\obj\Debug\net6.0\Veterinary.Infrastructure.dll
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Infrastructure\obj\Debug\net6.0\refint\Veterinary.Infrastructure.dll
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Infrastructure\obj\Debug\net6.0\Veterinary.Infrastructure.pdb
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Infrastructure\obj\Debug\net6.0\ref\Veterinary.Infrastructure.dll

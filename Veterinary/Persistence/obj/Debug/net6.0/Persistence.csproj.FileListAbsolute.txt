@@ -1,0 +1,17 @@
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Persistence\bin\Debug\net6.0\ApplicationsServices.dll
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Persistence\bin\Debug\net6.0\DomainClass.dll
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Persistence\bin\Debug\net6.0\ApplicationsServices.pdb
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Persistence\bin\Debug\net6.0\DomainClass.pdb
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\Users\Nicol\OneDrive\Documentos\Visual Studio 2022\Repositories\Veterinary\Veterinary\Persistence\obj\Debug\net6.0\ref\Persistence.dll

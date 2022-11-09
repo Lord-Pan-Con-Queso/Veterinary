@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Core\bin\Debug\net6.0\Veterinary.Core.deps.json
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Core\bin\Debug\net6.0\Veterinary.Core.dll
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Core\bin\Debug\net6.0\Veterinary.Core.pdb
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Core\obj\Debug\net6.0\Veterinary.Core.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Core\obj\Debug\net6.0\Veterinary.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Core\obj\Debug\net6.0\Veterinary.Core.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Core\obj\Debug\net6.0\Veterinary.Core.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Core\obj\Debug\net6.0\Veterinary.Core.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Core\obj\Debug\net6.0\Veterinary.Core.dll
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Core\obj\Debug\net6.0\refint\Veterinary.Core.dll
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Core\obj\Debug\net6.0\Veterinary.Core.pdb
+C:\Users\Usuario\source\repos\Veterinary\Veterinary.Core\obj\Debug\net6.0\ref\Veterinary.Core.dll
