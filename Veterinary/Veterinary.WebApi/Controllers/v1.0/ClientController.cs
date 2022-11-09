@@ -41,7 +41,7 @@ namespace Veterinary.WebApi.Controllers.v1
         }
 
         //Lista las mascotas por cliente
-        [HttpGet("pets")]
+        [HttpGet("client")]
         public async Task<IActionResult> Get()
         {
             var clients = await _context.Clients

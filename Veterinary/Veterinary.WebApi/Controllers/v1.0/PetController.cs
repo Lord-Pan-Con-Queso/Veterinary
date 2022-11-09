@@ -43,7 +43,7 @@ namespace Veterinary.WebApi.Controllers.v1._0
             return Ok(await Mediator.Send(new SelectPetByIdQuery { Id = id }));
         }
 
-        [HttpGet("clients")]
+        [HttpGet("pet")]
         public async Task<IActionResult> GetAllAsync()
         {
 

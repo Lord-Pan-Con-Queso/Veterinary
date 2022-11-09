@@ -21,7 +21,7 @@ namespace ApplicationsServices.Features.Commands.CreateCommands
                 .MinimumLength(6).WithMessage("Teléfono no debe contener menos de {MaxLength} caracteres.");
             RuleFor(x => x.clientIdn)
                 .NotEmpty().WithMessage("{PropertyName} no puede ser vacío.")
-                .MaximumLength(30).WithMessage("{PropertyName} no debe exeder de {MaxLength} caracteres.");
+                .MaximumLength(8).WithMessage("{PropertyName} no debe exeder de {MaxLength} caracteres.");
             RuleFor(x => x.clientEmail)
                 .NotEmpty().WithMessage("{PropertyName} no puede ser vacío.")
                 .Matches(@"^[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$").WithMessage("{PropertyName} debe ser una direccion de e-mail válida.")

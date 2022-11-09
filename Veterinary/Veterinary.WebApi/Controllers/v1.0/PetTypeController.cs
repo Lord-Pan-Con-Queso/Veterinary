@@ -32,10 +32,9 @@ namespace Veterinary.WebApi.Controllers.v1._0
                 }));
             }
 
-            [HttpGet("pets")]
+            [HttpGet("type")]
             public async Task<IActionResult> GetAllAsync()
             {
-
                 var petTypes = await _context.PetTypes
                     .Include(c => c.pets)
                     .ToListAsync();
