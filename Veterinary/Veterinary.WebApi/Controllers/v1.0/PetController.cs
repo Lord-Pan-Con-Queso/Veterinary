@@ -4,14 +4,10 @@ using ApplicationsServices.Features.Commands.UpdateCommands;
 using ApplicationsServices.Features.Queries.SelectAllQueries;
 using ApplicationsServices.Features.Queries.SelectByQueries;
 using ApplicationsServices.Filters;
-using ApplicationsServices.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
 using Persistence.Contexts;
-using System.Xml;
-using Veterinary.Core.DTOs;
-using Veterinary.DomainClass.Entity;
 using Formatting = Newtonsoft.Json.Formatting;
 
 namespace Veterinary.WebApi.Controllers.v1._0
@@ -44,9 +40,8 @@ namespace Veterinary.WebApi.Controllers.v1._0
         }
 
         [HttpGet("pet")]
-        public async Task<IActionResult> GetAllAsync()
+        public async Task<IActionResult> GetAllAsync([FromQuery] PetResponseFilter filter)
         {
-
             var pets = await _context.Pets
                 .Include(c => c.client)
                 .ToListAsync();
